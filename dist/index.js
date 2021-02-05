@@ -3,7 +3,7 @@
  * description: Dom create for next.
  * homepage: https://github.com/afeiship/next-dom-create
  * version: 1.0.0
- * date: 2021-02-05 15:16:03
+ * date: 2021-02-05 15:17:09
  * license: MIT
  */
 
